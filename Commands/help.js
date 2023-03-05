@@ -19,3 +19,5 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
     name: "help"
 }
+
+MTA3MzcwODg3MzY3Mzg2NzMyNQ.Gzio37.40xv7rejak4qDOmRlYws7fp8Px26kid7fUKyUY
